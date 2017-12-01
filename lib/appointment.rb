@@ -6,3 +6,5 @@ class Appointment
     @date = date
     @doctor = doctor
   end
+
+end
