@@ -7,6 +7,3 @@ class Patient
     doctor.patients << self
     @appointment = []
   end
-
-  
-    
