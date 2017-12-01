@@ -5,3 +5,5 @@ class Patient
   def initialize(name, doctor)
     @name = name
   end
+
+end
